@@ -1,4 +1,4 @@
-# Inventory and Customer Analysis for Profit Optimization
+# Maximizing Profit: Targeted Restocking and VIP Customer Engagement for Sustainable Growth
 
 ## Project Overview
 This project analyzes inventory and customer data to identify strategies for optimizing profits. By evaluating sales performance, customer behaviors, and stock levels, the analysis provides actionable insights for effective inventory management and targeted marketing efforts.
